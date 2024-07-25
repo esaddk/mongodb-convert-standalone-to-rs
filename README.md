@@ -22,7 +22,7 @@ This script automates the process of converting a standalone MongoDB instance in
 
 1. **Clone the Repository:**
 
-   git clone https://github.com/esaddk/database-tools.git
+   git clone https://github.com/esaddk/mongodb-convert-standalone-to-rs
    
 
 2. **Navigate to the Script Directory:**
